@@ -1,6 +1,6 @@
 # SAXS/WAXS Processing Tool
 
-A Python tool to process SAXS/WAXS data files, extracting the second column and saving it as a `.txt` file.
+A Python tool to process SAXS/WAXS data files, extracting the second column (the q-value) and saving it as a `.txt` file. It also can process `.edf` files anad it outputs a `.txt` file containing all of the temperatures sorted by frame number.
 
 ## Installation
 
